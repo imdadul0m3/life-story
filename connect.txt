@@ -1,1 +1,2 @@
 This is connection test
+Now it is modified txt
